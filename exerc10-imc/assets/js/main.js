@@ -46,5 +46,3 @@ function calcularIMC() {
 }
 
 calcularIMC();
-
-// console.log(Number.isNaN(Number('a')));
