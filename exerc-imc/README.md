@@ -5,7 +5,7 @@
 ## Funcionalidades
 - Calcula o IMC a partir do peso e altura informados.
 - Verificação de entrada de dados, garantindo que o IMC seja calculado corretamente.
-- Uma tabela IMC mostrando as classificações de IMC (abaixo do peso, normal, sobrepeso...).
+- Uma tabela mostrando as possíveis classificações de IMC (abaixo do peso, normal, sobrepeso...).
 - Responsividade para diversos tamanhos de telas.
 
 <img width="818" height="806" alt="Image" src="https://github.com/user-attachments/assets/56a2c2b9-4ef9-4768-a2eb-7a3efa7df5a3" />
